@@ -1,2 +1,4 @@
 gitの練習2回目
 aa
+・git add 
+・git commit
